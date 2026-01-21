@@ -1,0 +1,3 @@
+[submodule "mihoyo_login"]
+	path = mihoyo_login
+	url = https://github.com/Womsxd/mihoyo_login.git

@@ -1,0 +1,1 @@
+source Mihoyo_venv/bin/activate && python3 main.py
